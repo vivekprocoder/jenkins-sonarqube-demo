@@ -1,9 +1,6 @@
 public class First{
 
-  public unsedFunction(){
-    System.out.println("Test")
 
-  }
   public static void main(String[] args){
 
     int var = 42; //unused variable
@@ -20,6 +17,11 @@ public class First{
     catch(Exception e){
       //empty block
     }
+  }
+
+    public unsedFunction(){
+    System.out.println("Test");
+
   }
 }
 
