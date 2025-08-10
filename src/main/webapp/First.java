@@ -8,6 +8,12 @@ public class First{
     String nullString = null; //null value
     System.out.println(nullString.length());
 
+
+    try{
+      int x = 10/0;
+    }
+    catch(Exception e){
+    }
   }
 }
 
