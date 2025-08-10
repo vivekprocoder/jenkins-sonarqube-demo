@@ -5,6 +5,9 @@ public class First{
 
     String password = "12346"; //Hardcoded password 
 
+    String nullString = null; //null value
+    System.out.println(nullString.length());
+
   }
 }
 
