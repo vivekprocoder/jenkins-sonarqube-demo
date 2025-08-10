@@ -19,7 +19,7 @@ public class First{
     }
   }
 
-    public unsedFunction(){
+    public staic void unsedFunction(){
     System.out.println("Test");
 
   }
